@@ -2,8 +2,9 @@
 
 }
 
-.flat-picure {
-
+.flat-picture {
+  height: 200px;
+  background-size: cover;
 }
 
 .flat-title {
